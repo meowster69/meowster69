@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h3 align="left">Hi 👋! <br>My name is Meowster and I'm a rookie programmer, from India</h3>
 
 ###
